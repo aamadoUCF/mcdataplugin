@@ -1,0 +1,3 @@
+main: sd2.plugin.Main
+name: DataCollection
+version: 0.1
